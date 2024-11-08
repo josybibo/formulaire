@@ -71,7 +71,7 @@ const Contact = () => {
                     <option value="" disabled selected>Sélectionner votre sexe</option>
                     <option value="homme">Homme</option>
                     <option value="femme">Femme</option>
-                    <option value="autre">Autre</option>
+                    <option value="autre">Autre ou abstinence</option>
                 </select>
             </div>
 
